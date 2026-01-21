@@ -13,7 +13,7 @@ Actualmente, me interesa especialmente la manipulación de datos, computación e
 
 ---
 
-## 💻 Mi stack de desarrollo web
+## 💻 Mi stack orientado al desarrollo web
 
 | Backend | Frontend | CMS |
 |---------|----------|-----|
@@ -25,7 +25,7 @@ Actualmente, me interesa especialmente la manipulación de datos, computación e
 
 ---
 
-## 🐍 Mi stack de datos y Python
+## 🐍 Mi stack orientado a la manipulación de datos
 
 | Lenguajes | Librerías | Entornos |
 |-----------|-----------|----------|
