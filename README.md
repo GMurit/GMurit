@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 ¡Hola! Soy Fran
 
 Soy estudiante de segundo año de Desarrollo de Aplicaciones Web, también graduado en Filología Inglesa.  
-Mi interés profesional es el procesamiento de datos, y tengo experiencia práctica en Python juntos con librerías, como Panda, Numpy y Requests, a través de proyectos personales para limpiar y procesar conjuntos de datos.  
+Mi interés profesional es el procesamiento de datos, y tengo experiencia práctica en Python juntos con librerías, como Panda, Numpy y Requests, a través de proyectos personales para limpiar y procesar conjuntos de datos (ETL).  
 
 Gracias al curso de Desarrollo Web, he aprendido diversas tecnologías y trabajado también con CMS, desarrollando blogs y tiendas online ¡que podrás ver en mis repositorios!
 
@@ -37,8 +37,9 @@ Actualmente, me interesa especialmente la manipulación de datos, computación e
 
 ---
 
-## 🌱 Actualmente estoy aprendiendo
+## 🌱 Actualmente mi tengo toda mi curiosidad puesta en...
 
-- **Google Cloud Platform** ☁️  
-- Profundización en **manipulación de datos y computación en la nube**  
-- Mejorando mis proyectos con **Python y Web Development**
+- Aprender Google Cloud Platform ☁️
+- Seguir trabjando personalmente en scripts enfocados en procesos de ETL.
+- Seguir mejorando y aprendiendo más de lo que ya conozco.
+-  Descubrir nuevos aspectos que me ayuden a orientar mi carrera hacia donde quiero.
