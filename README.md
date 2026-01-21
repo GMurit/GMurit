@@ -2,7 +2,7 @@
 GMurit/GMurit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# 👋 ¡Hola, soy Fran!
+# 👋 ¡Hola, soy Fran! ¡Bienvenido a mi perfil!
 
 Soy estudiante de segundo año de Desarrollo de Aplicaciones Web, también graduado en Filología Inglesa.  
 Mi interés profesional es el procesamiento de datos, y tengo experiencia práctica en Python juntos con librerías, como Panda, Numpy y Requests, a través de proyectos personales para limpiar y procesar conjuntos de datos (ETL).
@@ -37,7 +37,7 @@ Actualmente, me interesa especialmente la manipulación de datos, computación e
 
 ---
 
-## 🌱 Actualmente mi tengo toda mi curiosidad puesta en...
+## 🌱 Actualmente tengo toda mi curiosidad puesta en...
 
 - Aprender Google Cloud Platform ☁️
 - Seguir trabjando personalmente en scripts enfocados en procesos de ETL.
