@@ -4,12 +4,12 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 ¡Hola! Soy Fran
 
-Soy estudiante de segundo año de **Desarrollo de Aplicaciones Web**, con formación en **Filología Inglesa**.  
-Me apasiona el **procesamiento de datos**, y tengo experiencia práctica en Python a través de proyectos personales para limpiar y procesar conjuntos de datos.  
+Soy estudiante de segundo año de Desarrollo de Aplicaciones Web, también graduado en Filología Inglesa.  
+Mi interés profesional es el procesamiento de datos, y tengo experiencia práctica en Python juntos con librerías, como Panda, Numpy y Requests, a través de proyectos personales para limpiar y procesar conjuntos de datos.  
 
-Gracias al curso de Desarrollo Web, he aprendido diversas tecnologías y trabajado con **CMS**, desarrollando blogs y tiendas online.
+Gracias al curso de Desarrollo Web, he aprendido diversas tecnologías y trabajado también con CMS, desarrollando blogs y tiendas online ¡que podrás ver en mis repositorios!
 
-Actualmente, me interesa especialmente la **manipulación de datos, computación en la nube y la ingeniería de datos en la nube**, por lo que estoy aprendiendo de manera autodidacta **Google Cloud Platform**, además de profundizar en mis conocimientos en las tecnologías que ya manejo.
+Actualmente, me interesa especialmente la manipulación de datos, computación en la nube y la ingeniería de datos en la nube, por lo que estoy aprendiendo de manera autodidacta Google Cloud Platform, además de profundizar en mis conocimientos en las tecnologías que ya manejo.
 
 ---
 
