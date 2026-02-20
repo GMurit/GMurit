@@ -26,7 +26,7 @@ En lo personal, me considero una persona curiosa, por lo que aprender constantem
 
 ---
 
-## 🐍 Tecnologías con las que he trabajado para para la extracción, limpieza y guardado de datos.
+## 🐍 Tecnologías que he usado para aprender la extracción, limpieza y guardado de datos.
 
 | Lenguajes | Librerías | Entornos |
 |-----------|-----------|----------|
