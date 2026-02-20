@@ -41,4 +41,4 @@ En lo personal, me considero una persona curiosa, por lo que aprender constantem
 ## 🌱 Actualmente tengo toda mi cmirada puesta en...
 
 - Aprender cloud ☁️
-- Seguir mejorando y aprendiendo más de lo que ya conozco.
+- Seguir mejorando y aprendiendo más de lo que conozco y no conozco.
