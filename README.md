@@ -4,13 +4,13 @@ You can click the Preview link to take a look at your changes.
 --->
 # 👋 ¡Hola, soy Fran! ¡Bienvenido a mi perfil!
 
-Soy estudiante de segundo año de Desarrollo de Aplicaciones Web, también graduado en Filología Inglesa.  
-Mi interés profesional es el procesamiento de datos, y tengo experiencia práctica en Python juntos con librerías, como Panda, Numpy y Requests, a través de proyectos personales para limpiar y procesar conjuntos de datos (ETL).
-Con el curso de Desarrollo Web, además de haber podido aprender y trabjar con diversas tecnologías, también he trabajado con sistemas de gestión de contenido. Tengo creados un blog y una tienda de zapatilla, ¡que podrás ver en mis repositorios!
+Soy estudiante de segundo año de Desarrollo de Aplicaciones Web y filólogo inglés. Actualmente, estoy trabajando con tecnologías dedicadas al desarrollo web como tecnologías como PHP, Java, JavaScript, Node.js, Angular, entre muchas otras, así como también en la gestión de bases de datos; consultas SQL, optimización y programación. Por otro lado, también he trabajado con sistemas de gestión de contenido como WordPress, con el que he desarrollado mi propio blog y una tienda online desarrollando yo mismo tanto el frontend como funcionalidades en el backend.
 
-Me defino como una persona muy curiosa, que se toma todo con calma y reflexión. Siempre me atrae aprender o leer sobre cosas que antes desconocía, y para mí esto es un verdadero entretenimiento que me absorbe por completo, disfruto mucho aprendiendo y escuchando.
-Actualmente, me interesa especialmente la manipulación de datos, computación en la nube y la ingeniería de datos en la nube, por lo que estoy aprendiendo de manera autodidacta Google Cloud Platform, además de profundizar en mis conocimientos en las tecnologías que ya manejo.
+En cuanto a mis intereses profesionales, me encantaría dedicarme a la computación en la nube, motivo por el cual actualmente estoy invirtiendo mi tiempo en aprender todo lo que pueda y más. Y además, también por iniciativa propia, he dedicado tiempo a aprender otras tecnologías como Python, y junto a éste, el procesamiento de conjuntos de datos y los procesos ETL.
 
+En lo personal, me considero una persona curiosa, por lo que aprender constantemente a través de lecturas, cursos y contenido audiovisual es uno de mis principales pasatiempos. También me defino como alguien calmado y reflexivo, lo que me ayuda mucho a evaluar y tomar decisiones difíciles.
+
+¡Si quiere sabes más de mí, no dude en ponerte en contacto conmigo!
 ---
 
 ## 💻 Mi stack orientado al desarrollo web
