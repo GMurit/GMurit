@@ -10,7 +10,7 @@ En cuanto a mis intereses profesionales, me encantaría dedicarme a la computaci
 
 En lo personal, me considero una persona curiosa, por lo que aprender constantemente a través de lecturas, cursos y contenido audiovisual es uno de mis principales pasatiempos. También me defino como alguien calmado y reflexivo, lo que me ayuda mucho a evaluar y tomar decisiones difíciles.
 
-¡Si quiere sabes más de mí, no dude en ponerte en contacto conmigo!
+¡Si quieres sabes más de mí, no dude en ponerte en contacto conmigo!
 
 ---
 
