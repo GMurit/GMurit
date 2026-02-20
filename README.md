@@ -14,7 +14,7 @@ En lo personal, me considero una persona curiosa, por lo que aprender constantem
 
 ---
 
-## 💻 Mi stack orientado al desarrollo web
+## 💻 Técnologías con las que he trabajado en desarrollo web
 
 | Backend | Frontend | CMS |
 |---------|----------|-----|
@@ -26,7 +26,7 @@ En lo personal, me considero una persona curiosa, por lo que aprender constantem
 
 ---
 
-## 🐍 Mi stack orientado a la manipulación de datos
+## 🐍 Tecnologías con las que he trabajado para para la extracción, limpieza y guardado de datos.
 
 | Lenguajes | Librerías | Entornos |
 |-----------|-----------|----------|
@@ -38,9 +38,7 @@ En lo personal, me considero una persona curiosa, por lo que aprender constantem
 
 ---
 
-## 🌱 Actualmente tengo toda mi curiosidad puesta en...
+## 🌱 Actualmente tengo toda mi cmirada puesta en...
 
-- Aprender Google Cloud Platform ☁️
-- Seguir trabjando personalmente en scripts enfocados en procesos de ETL.
+- Aprender cloud ☁️
 - Seguir mejorando y aprendiendo más de lo que ya conozco.
--  Descubrir nuevos aspectos que me ayuden a orientar mi carrera hacia donde quiero.
