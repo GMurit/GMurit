@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # ¡Hola y bienvenido a mi perfil! 👋✨
 
-Mi nombre es Fran y actualmente dedico mi tiempo a construir proyectos que involucren la infraestructura como código (IaC), orquestación con Kubernetes, CI/CD, GitOps y observabilidad.
+Mi nombre es Fran y actualmente dedico mi tiempo a construir proyectos que involucren la infraestructura como código (IaC), docker, orquestación con Kubernetes, CI/CD, GitOps y observabilidad.
 
 ¡No dudes en visitar mis repositorios para ver los proyectos en los que he estado trabajando!
 
@@ -14,12 +14,20 @@ Mi nombre es Fran y actualmente dedico mi tiempo a construir proyectos que invol
 
 ## ☁️ Cloud & DevOps
 
-| Cloud & IaC | Contenedores & Orquestación | CI/CD & GitOps | Observabilidad |
+| Cloud & IaC | Contenedores & Orquestación | CI/CD & GitOps | Observabilidad & Automatización |
 |---|---|---|---|
 | ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) |
 | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
-| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | | | |
+| ![IAM](https://img.shields.io/badge/IAM-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white) | ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white) | ![GitOps](https://img.shields.io/badge/GitOps-326CE5?style=for-the-badge&logo=argo&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) |
+| ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) | | | ![Webhooks](https://img.shields.io/badge/Webhooks-000000?style=for-the-badge&logo=webhook&logoColor=white) |
 | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) | | | |
+
+---
+
+## 🤖 IA / LLMs
+
+![Gemini API](https://img.shields.io/badge/Google_Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function_Calling-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
@@ -48,8 +56,12 @@ Mi nombre es Fran y actualmente dedico mi tiempo a construir proyectos que invol
 
 | Proyecto | Descripción |
 |---|---|
+| [`automatizacion-api-inventario-n8n`](https://github.com/FJMurOrt/automatizacion-api-inventario-n8n) | Flujos con n8n conectados a mi API de inventario: alertas por coste y notificaciones en tiempo real (webhooks) |
+| [`agente-inventario-ia`](https://github.com/FJMurOrt/agente-inventario-ia) | Agente de IA con function calling (Gemini API) que consulta mi API de inventario en lenguaje natural |
 | [`inventario-cloud-k8s`](https://github.com/FJMurOrt/inventario-cloud-k8s) | Despliegue de mi API en Kubernetes con GitOps (ArgoCD) y observabilidad (Prometheus + Grafana) |
 | [`inventario-cloud-fastapi`](https://github.com/FJMurOrt/inventario-cloud-fastapi) | Desarrollo de mi API REST con FastAPI, SQLAlchemy, tests y CI/CD |
-| [`gcp-landing-zone-1`](https://github.com/FJMurOrt/gcp-landing-zone) | Construcción de una Landing Zone en GCP con Terraform (IAM, VPC, Zero-Trust) |
-| [`gcp-landing-zone-2`](https://github.com/FJMurOrt/gcp-landing-zone-2) | Construcción de una Landing Zone en GCP con Terraform (IAM, VPC, Zero-Trust) |
+| [`gcp-landing-zones`](https://github.com/FJMurOrt/gcp-landing-zones) | Landing Zones en GCP con Terraform (IAM, VPC, Zero-Trust) |
+| [`scripts-de-automatizaciones`](https://github.com/FJMurOrt/scripts-de-automatizaciones) | Scripts de automatización en Python y Bash |
 | [`cliniko`](https://github.com/FJMurOrt/cliniko) | Plataforma web de gestión médica con PHP, MySQL, Bootstrap, JS/AJAX, Docker y CI/CD |
+
+---
