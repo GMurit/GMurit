@@ -63,6 +63,6 @@ Mi nombre es Fran y actualmente dedico mi tiempo a construir proyectos que invol
 | [`infraestructura-gcp-con-terraform`](https://github.com/FJMurOrt/infraestructura-gcp-con-terraform) | Colección de ejercicios de infraestructura como código con Terraform en GCP |
 | [`gcp-landing-zones`](https://github.com/FJMurOrt/gcp-landing-zones) | Landing Zones en GCP con Terraform (IAM, VPC, Zero-Trust) |
 | [`scripts-de-automatizaciones`](https://github.com/FJMurOrt/scripts-de-automatizaciones) | Scripts de automatización en Python y Bash |
-| [`cliniko`](https://github.com/FJMurOrt/cliniko) | Plataforma web de gestión médica con PHP, MySQL, Bootstrap, JS/AJAX, Docker y CI/CD |
+| [`cliniko`](https://github.com/FJMurOrt/cliniko) | Plataforma web de gestión médica con PHP, MySQL, Bootstrap, JS/AJAX, Docker, Git, GitHub, y CI/CD |
 
 ---
